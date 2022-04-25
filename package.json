@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/Dawsonf18/team-profile-generator#readme",
   "dependencies": {
+    "express": "^4.17.3",
     "inquire": "^0.4.8",
     "inquirer": "^8.2.2",
     "jest": "^27.5.1"
-  }
+  },
+  "keywords": []
 }
